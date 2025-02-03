@@ -20,6 +20,6 @@ export default defineConfig({
         }),
         AstroPWA(),
     ],
-    site: "https://taibeled.github.io",
+    site: "https://mryawnie.github.io",
     base: "JetLagHideAndSeek",
 });
